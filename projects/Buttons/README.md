@@ -3,7 +3,7 @@
 A simple **Button Collection** built using **HTML** and **CSS**. It showcases different button styles such as **Solid**, **Outline**, **Pill**, and **Accent**, along with their hover effects.
 
 ## 🔗 Live Demo
-*Coming Soon*
+https://bhanu-joshi01.github.io/Resume/projects/Buttons/
 
 ## 🚀 Technologies Used
 - HTML5
