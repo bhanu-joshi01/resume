@@ -1,0 +1,61 @@
+body{
+    background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+    padding:30px;
+}
+
+#header{
+    text-align:center;
+}
+
+#profile-photo{
+    width:150px;
+    border-radius:50%;
+    border:3px solid black;
+}
+
+#name{
+    color:darkblue;
+    font-size:40px;
+}
+
+#title{
+    font-size:20px;
+}
+
+.section{
+    margin-bottom:30px;
+}
+
+h2{
+    color:rgb(26, 71, 108);
+    font-size:28px;
+}
+
+h3{
+    color:darkslategray;
+}
+
+p{
+    font-size:18px;
+}
+
+hr{
+    border:1px solid lightgray;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:hover{
+    color:red;
+}
+
+.project{
+    margin-bottom:25px;
+}
+
+#footer{
+    text-align:center;
+}
