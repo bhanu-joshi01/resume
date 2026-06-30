@@ -4,7 +4,7 @@ A personal resume website built using **HTML5** and **CSS3**. This project showc
 
 ## Live Demo
 
-🔗 
+🔗 https://bhanu-joshi01.github.io/Resume/revamp/
 
 ## Features
 
