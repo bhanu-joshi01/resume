@@ -1,61 +1,80 @@
-body{
-    background-color: whitesmoke;
+body {
+    background-color: #f2f2f2;
     font-family: Arial, sans-serif;
-    padding:30px;
+    padding: 20px;
+    color: #333;
 }
 
-#header{
-    text-align:center;
+#header {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
 }
 
-#profile-photo{
-    width:150px;
-    border-radius:50%;
-    border:3px solid black;
+#profile-photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 2px solid black;
+    object-fit: cover;
 }
 
-#name{
-    color:darkblue;
-    font-size:40px;
+#name {
+    color: darkblue;
+    font-size: 35px;
 }
 
-#title{
-    font-size:20px;
+#title {
+    font-size: 18px;
+    color: gray;
 }
 
-.section{
-    margin-bottom:30px;
+.section {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
 }
 
-h2{
-    color:rgb(26, 71, 108);
-    font-size:28px;
+h2 {
+    color: rgb(26, 71, 108);
+    font-size: 26px;
 }
 
-h3{
-    color:darkslategray;
+h3 {
+    color: darkslategray;
 }
 
-p{
-    font-size:18px;
+p {
+    font-size: 16px;
+    line-height: 1.5;
 }
 
-hr{
-    border:1px solid lightgray;
+ul {
+    padding-left: 20px;
 }
 
-a{
-    text-decoration:none;
+a {
+    text-decoration: none;
+    color: blue;
 }
 
-a:hover{
-    color:red;
+a:hover {
+    color: red;
 }
 
-.project{
-    margin-bottom:25px;
+.project {
+    margin-bottom: 15px;
 }
 
-#footer{
-    text-align:center;
+hr {
+    border: 1px solid lightgray;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
 }
