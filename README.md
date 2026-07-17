@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML and CSS.
 It is part of my internship work.
 
 🌐 **Live Website:**  
-https://bhanu-joshi01.github.io/Resume/
+https://bhanu-joshi01.github.io/resume/
 
 The website includes my profile, skills, education, projects, and contact information.
 
